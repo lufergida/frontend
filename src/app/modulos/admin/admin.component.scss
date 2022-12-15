@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+.form-control{
+  height: 100%;
+}
+.form-group{
+  text-align: center;
+}.boton{
+  width: 200px;
+  height: 40px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  background-color: green;
+  border-radius: 15px 15px;
+}
+
+body { background-color: #fffb00; }
